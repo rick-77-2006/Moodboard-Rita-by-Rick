@@ -496,6 +496,7 @@ width: 100%;
  .group-10 {
       position: absolute; left: 39.97px;top: 2759.27px;
       overflow: visible;
+      /* width: 100%; */
     }
  .rectangle-16 {
       width: 1515.06px; height: 743.33px;
